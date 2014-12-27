@@ -30,13 +30,14 @@ Hello. Im Tester2009.
 
 Download alphaAtom.php from this repo
 
-https://github.com/alepcat1710/alphaAtom/blob/master/alphaAtom.php
+https://raw.githubusercontent.com/alepcat1710/alphaAtom/master/alphaAtom.php
 
 Then run in your terminal.
 
 Credit
 ------
-   --Muhammad Aliff Muazzam(creator)
+   --Muhammad Aliff Muazzam (creator)
+   
    --Mohd Shahril (little help)
 
 alphaAtom@2014
