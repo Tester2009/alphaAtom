@@ -30,7 +30,7 @@ Hello. Im Tester2009.
 
 Download alphaAtom.php from this repo
 
-// site
+https://github.com/alepcat1710/alphaAtom/blob/master/alphaAtom.php
 
 Then run in your terminal.
 
